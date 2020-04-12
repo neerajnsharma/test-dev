@@ -1,2 +1,2 @@
 # test-dev
-Test repo
+maven and jenkins pipeline demo project
