@@ -1,2 +1,5 @@
-# test-dev
-maven and jenkins pipeline demo project
+#Starter Project
+## Introduction
+## Purpose
+## Deployment
+## How to contribute
